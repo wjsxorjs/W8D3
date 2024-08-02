@@ -1,0 +1,23 @@
+.card{
+    margin: 5px;
+    text-align: center;
+}
+
+.img_item{
+    display: block;
+    margin: 0 auto;
+}
+
+.title_item{
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 100%;
+    white-space: nowrap;
+}
+
+.price_item{
+    font-size: 17px;
+    color: #00bcd4;
+    font-weight: bold;
+    text-align: center;
+}
